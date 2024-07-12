@@ -1,0 +1,17 @@
+div {
+  height: 200px;
+  width: 70px;
+  border: 2px solid black;
+}
+
+div div {
+  height: 50px;
+  width: 50px;
+  margin: 8px;
+  border-radius: 50%;
+}
+
+h2 {
+  border: 2px solid black;
+  width: 50%;
+}
